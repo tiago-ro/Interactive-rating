@@ -72,7 +72,7 @@ input[type="button"]:focus{
     background-color: var(--Orange);
     color: white;
 }
-input[value="SUBMIT"]{
+input.submit{
     font-family: var(--font1);
     font-weight: 700;
     background-color: var(--Orange);
